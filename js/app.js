@@ -48,6 +48,8 @@ function formatStudentStatus(status) {
   return status === "active" ? "Active" : "Inactive";
 }
 
+
+
 /**
  * setStatus(status)
  * Updates the profile status text, data-status value,
